@@ -1,0 +1,5 @@
+{
+  "name": "Pi Is Irrational v2",
+  "description": "A sleek, monochromatic, scroll-driven visualization of a complex mathematical function using React, Canvas, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
